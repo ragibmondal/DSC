@@ -48,7 +48,7 @@ int main(){
     a=ragib;
     
   
-   /*node* ptr=a;
+   node* ptr=a;
    while(ptr->next!=NULL){
         ptr=ptr->next;
     }
@@ -88,7 +88,7 @@ int main(){
     dell2= dell2->next;
    }
    free(dell2);
-   dell2=NULL;*/
+   dell2=NULL;
 
     node*ptr=a;
     while(ptr!=NULL){
