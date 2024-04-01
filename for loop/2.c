@@ -6,5 +6,5 @@ int main(){
       printf("%d",2*i-1);
       sum+=2*i-1;
     }
-    printf(\n The )
+    printf(\n The number )
 }
