@@ -10,6 +10,6 @@ int main(){
     head=(Node*)malloc(sizeof(Node));
     head->data=45;
     head->link=NULL;
-    printf("%d",head->data);
+    printf("%d \n",head->data);
     return 0;
 }
